@@ -1,35 +1,26 @@
-You can use the [editor on GitHub](https://github.com/ahmadrahiq/ahmadrahiq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Application Form in Doc Format
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="img/dr-shaheen.doc" target="_blank">Application Form (Doc)</a>
 
-### Markdown
+## Application Form in PDF Format
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="img/dr-shaheen.pdf" target="_blank" title="Application Form (PDF)">Application Form (PDF)</a>
 
-```markdown
-Syntax highlighted code block
+<p><strong>Image For PP Photo</strong></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p><a href="img/jasim.jpg">Image of Dr. Jasim (PP Size Photo)</a></p>
 
-- Bulleted
-- List
+## NID
 
-1. Numbered
-2. List
+<p><a href="img/nid-JannatAraZeba.pdf">Nid Card of Jannat Ara Zeba</a></p>
 
-**Bold** and _Italic_ and `Code` text
+## PP Images For B/A Creation
 
-[Link](url) and ![Image](src)
-```
+<a href="img/dr-saju.jpg" target="_blank">Dr Saju Ahammed</a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="img/jeba.jpg" target="_blank">Jannat Ara Jeba</a>
 
-### Jekyll Themes
+### Presented By
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmadrahiq/ahmadrahiq.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Dr. Md. Saju Ahmad**
